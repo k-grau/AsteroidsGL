@@ -1,7 +1,5 @@
 # AsteroidsGL
 
-**\*APK can be found in app/release\***
-
 Simple remake of the classical game Asteroids: https://en.wikipedia.org/wiki/Asteroids_(video_game) for Android. 
 
 Developed 2019 as part of the course Game Development for Android (5SD061) at Uppsala University, Sweden (https://www.uu.se/en/admissions/freestanding-courses/course/?kKod=5SD812&typ=1)
