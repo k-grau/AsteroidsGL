@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_gravity="bottom"
+    android:padding="@dimen/keypad_size"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/gamepad">
+
+    <Button android:id="@+id/keypad_up"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@+id/keypad_left"
+        android:layout_width="@dimen/keypad_size"
+        android:layout_height="@dimen/keypad_size"
+        android:text="@string/keypad_up_text"/>
+
+
+    <Button android:id="@+id/keypad_down"
+        android:layout_below="@+id/keypad_left"
+        android:layout_toRightOf="@+id/keypad_left"
+        android:layout_width="@dimen/keypad_size"
+        android:layout_height="@dimen/keypad_size" />
+
+    <Button android:id="@+id/keypad_left"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/keypad_up"
+        android:layout_width="@dimen/keypad_size"
+        android:text="@string/keypad_left_text"
+        android:layout_height="@dimen/keypad_size" />
+
+    <Button android:id="@+id/keypad_right"
+        android:layout_toRightOf="@+id/keypad_up"
+        android:layout_below="@+id/keypad_up"
+        android:layout_width="@dimen/keypad_size"
+        android:text="@string/keypad_right_text"
+        android:layout_height="@dimen/keypad_size" />
+
+
+    <Button
+        android:id="@+id/keypad_a"
+        android:layout_width="@dimen/keypad_size"
+        android:layout_height="@dimen/keypad_size"
+        android:layout_alignTop="@+id/keypad_left"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="0dp"
+        android:text="@string/keypad_a_text"
+        android:layout_marginRight="80dp" />
+
+    <Button android:id="@+id/keypad_b"
+        android:layout_alignParentRight="true"
+        android:layout_alignTop="@+id/keypad_left"
+        android:layout_width="@dimen/keypad_size"
+        android:text="@string/keypad_b_text"
+        android:layout_height="@dimen/keypad_size" />
+</RelativeLayout>

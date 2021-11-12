@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="star_count">100</integer>
+    <integer name="start_lifes">5</integer>
+    <integer name="start_level">1</integer>
+    <integer name="asteroid_count">10</integer>
+    <integer name="immortal_for">500</integer>
+    <integer name="default_loop">0</integer>
+    <integer name="eternal_loop">-1</integer>
+    <integer name="asteroid_size_bound">3</integer>
+    <integer name="asteroid_shape_bound">15</integer>
+    <integer name="asteroid_start_position">300000</integer>
+    <integer name="min_score">5</integer>
+    <integer name="med_score">10</integer>
+    <integer name="max_score">15</integer>
+    <integer name="move_off_screen">1000</integer>
+    <integer name="priority">1</integer>
+    <integer name="max_streams">10</integer>
+    <integer name="max_levels">9</integer>
+
+
+</resources>

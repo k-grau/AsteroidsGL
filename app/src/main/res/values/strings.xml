@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AsteroidsGL</string>
+    <string name="fps_text">MS PER FRAME:%.2f</string>
+    <string name="score_text">SCORE:%d</string>
+    <string name="life_text">LIVES:%d</string>
+    <string name="level_text">LEVEL:%d</string>
+    <string name="level_complete_text">LEVEL COMPLETE. GET READY FOR NEXT LEVEL.</string>
+    <string name="gameover_text">GAME OVER. PRESS B TO RESTART.</string>
+    <string name="start_text">ASTEROIDS IS LOADED. PRESS B TO START.</string>
+    <string name="teleporting_text">TELEPORTING</string>
+    <string name="keypad_up_text">U</string>
+    <string name="keypad_left_text">L</string>
+    <string name="keypad_right_text">R</string>
+    <string name="keypad_a_text">A</string>
+    <string name="keypad_b_text">B</string>
+</resources>

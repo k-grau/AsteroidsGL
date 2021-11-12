@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="world_width">160</string>
+    <string name="world_height">90</string>
+    <string name="meters_to_show_x">160</string>
+    <string name="meters_to_show_y">90</string>
+    <string name="default_volume">1f</string>
+    <string name="default_rate">1.0f</string>
+    <string name="lower_boost_vol">0.7</string>
+    <string name="rotation_velocity">360f</string>
+    <string name="thrust">1f</string>
+    <string name="drag">0.99f</string>
+    <string name="time_between_shots">0.25f</string>
+    <string name="player_width">6f</string>
+    <string name="player_height">9f</string>
+
+    <string name="small_asteroid_increase_min">15f</string>
+    <string name="small_asteroid_increase_max">18f</string>
+
+    <string name="medium_asteroid_increase_min">11f</string>
+    <string name="medium_asteroid_increase_max">14f</string>
+
+    <string name="large_asteroid_increase_min">7f</string>
+    <string name="large_asteroid_increase_max">10f</string>
+
+
+</resources>
